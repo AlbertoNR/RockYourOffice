@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "ms-graph-sp-fx-rock",
+    "libraryId": "233abe9f-0ebb-4df3-a102-dce1a6c210a1",
+    "environment": "spo"
+  }
+}
